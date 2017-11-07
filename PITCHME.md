@@ -315,7 +315,7 @@ DIP is also known as:
 - DP (Digital Points)
 - PPI (points per inch)
 
-Don't ask. ¯\_(ツ)_/¯
+Don't ask. ¯\\_(ツ)_/¯
 
 ---
 
