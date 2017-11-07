@@ -1,8 +1,10 @@
+---?image=https://cdn-pro.dprcdn.net/files/acc_244709/IedzTc
+
 # Hello first slide
 
 This is my first slide.
 
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+---
 
 # Second slide
 
