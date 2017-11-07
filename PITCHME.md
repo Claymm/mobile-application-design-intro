@@ -22,7 +22,16 @@ But it's still designing so you’ll still need inspiration as well as all of yo
 
 **(Try to) Be interested and curious**
 
-It’s okay to be new on something as long as you try to understand it and do your best.
+It’s okay to be new on something as long as you try to understand it and do your best even though
+if it could be quite overwhelming at first when digging into it, as it's kind of its own world.
+
+You could feel like...
+
+---
+
+![](https://img.memecdn.com/i-have-no-idea_o_1043684.jpg)
+
+But it's okay.
 
 ---
 
@@ -556,7 +565,7 @@ But maybe not only...
 - [UI Design Do’s and Don’ts - Apple Developer](https://developer.apple.com/design/tips/)
 - [Themes - Overview - iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
 
-----
+---
 
 - [Show Me the Way to Go Anywhere – Navigation for Mobile Applications](https://www.interaction-design.org/literature/article/show-me-the-way-to-go-anywhere-navigation-for-mobile-applications)
 - [Density Explanation](http://blog.fluidui.com/designing-for-mobile-101-pixels-points-and-resolutions/)
@@ -576,3 +585,7 @@ But maybe not only...
 - [Material Design](https://material.io/)
 - [What Dimensions And Resolution Should Be For iOS And Android App Design?](https://think360studio.com/what-dimensions-resolution-should-be-for-ios-and-android-app-design/)
 - [Appcelerator Platform - Appcelerator Docs](http://docs.appcelerator.com/platform/latest/#!/guide/Layouts,_Positioning,_and_the_View_Hierarchy)
+
+---
+
+![](http://i.memecaptain.com/gend_images/sMzG0g.jpg)
