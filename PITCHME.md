@@ -7,25 +7,35 @@
 ---
 
 **Good news, don’t forget what you know already.**
+
 See this as a new set of skills and build on this...
 
 --- 
 
 **It's gonna be huge.**
+
 Similar to web design, it’s wide and dense and you’ll still need inspiration and all of your best UX skills.
 
 ---
 
 **Be interested and curious**
+
 It’s okay to be new on something as long as you try to understand and do your best to be better.
 
 ---
 
-***My personal first experiences...***
+**My personal first experiences...**
+
+__Using Appcelerator Titanium...__
 
 - [COBAN Atlantique dans l’App Store](https://itunes.apple.com/fr/app/coban-atlantique/id653538938?mt=8)
 - [COBAN Atlantique - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.seppa.coban&hl=en)
 - [Guide de Mérignac dans l’App Store](https://itunes.apple.com/fr/app/guide-de-m%C3%A9rignac/id620600674?mt=8)
+
+---
+
+**And a print designer... 🤦‍**
+
 - [my Selecta on the App Store](https://itunes.apple.com/gb/app/my-selecta/id727157602?mt=8)
 - [my Selecta - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.selecta.myselecta&hl=en)
 
