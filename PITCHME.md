@@ -296,7 +296,7 @@ or other (Windows Phones)
 
 Buttons, TableView/ListView, ScrollableView, ScrollView, ImageView, View, Slider, Dialog, Picker, Window, Inputs...
 
----?image=https://i.pinimg.com/736x/83/b4/a9/83b4a9840373239ad291a58a0c50f013--view-controller-ios-.jpg&size=auto auto
+---?image=https://i.pinimg.com/736x/83/b4/a9/83b4a9840373239ad291a58a0c50f013--view-controller-ios-.jpg&size=auto 90%
 
 ---
 
