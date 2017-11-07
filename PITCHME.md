@@ -530,9 +530,8 @@ Thing are coming as requirements from the technology used.
 - For feeding back the user on errors
     - While filling a form or performing an action
     - While simply navigating and using the application
-- What units to talk to?
-- What densities?
-
+- What units to talk with?
+- What densities do you need?
 
 ---
 
@@ -552,6 +551,7 @@ But maybe not only...
 - What are the best practices with Sketch for Mobile Application Design?
 - What should be our processes in terms of Mobile Application Design?
 - How to do wireframing efficiently for Mobile Application Design?
+- What processes to create/adjust internally?
 - and many more...
 
 ---
