@@ -293,11 +293,7 @@ Buttons, TableView/ListView, ScrollableView, ScrollView, ImageView, View, Slider
 
 **Units, Layout, Positioning and View Hierarchy**
 
-From my own experience with Appcelerator Titanium.
-
----
-
-**Units for Absolute values**
+Units for Absolute values:
 
 - Default iOS: dip
 - Default Android: pixels 
@@ -306,11 +302,31 @@ From my own experience with Appcelerator Titanium.
 
 ---
 
-**DP/DIP**
+**DP/DIP/DPI DAFUQ?**
 
-- Density-independent pixels (we sometimes call these "points")
-- Android : actual pixels = dip * (screen density) / 160
-- iOS : actual pixels = dip * (screen density) / 163 (effectively 1dip=1px on standard, 1dip=2px on retina)
+DPI (Dots Per Inch) = **Physical measure**
+DIP (Density Independent Pixels) = **Abstract measure**
+
+---
+
+DIP is also known as:
+
+- Points
+- DP (Digital Points)
+- PPI (points per inch)
+
+Don't ask. ¯\_(ツ)_/¯
+
+---
+
+![](http://blog.fluidui.com/content/images/2015/09/resolution.png)
+
+---
+
+- Android: actual pixels = dip * (screen density) / 160
+- iOS: actual pixels = dip * (screen density) / 163
+
+Effectively **1dip = 1px** on standard and **1dip = 2px** on retina display for iOS.
 
 ---
 
@@ -326,6 +342,7 @@ From my own experience with Appcelerator Titanium.
 **Positionning**
 
 - top, right, bottom, left anchors
+- value (percentage or absolute)
 
 ---
 
@@ -392,10 +409,6 @@ Don’t forget transitions, make it live (but not too much)
 ---
 
 **Deliverables**
-
----
-
-Richard?
 
 ---
 
@@ -467,9 +480,13 @@ In sum, apply the same things you would apply for a website in terms of workflow
 - [Dribbble - 4_2x.png by Jerry](https://dribbble.com/shots/3835770-Dogdom/attachments/868382)
 - [UI Design Do’s and Don’ts - Apple Developer](https://developer.apple.com/design/tips/)
 - [Themes - Overview - iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
+- [Density Explanation](http://blog.fluidui.com/designing-for-mobile-101-pixels-points-and-resolutions/)
+- [Pixel Density Demyistified](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922)
 
 ---
 
+- [Design at 1x it's a fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536)
+- [Designing at 1x](https://medium.com/sketch-app-sources/designing-at-1x-33240842180c)
 - [Eight don’ts for your Material Design app – Prototypr](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329)
 - [Material Design](https://material.io/)
 - [What Dimensions And Resolution Should Be For iOS And Android App Design?](https://think360studio.com/what-dimensions-resolution-should-be-for-ios-and-android-app-design/)
