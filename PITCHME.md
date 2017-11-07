@@ -187,6 +187,10 @@ Discussion...
 
 ---
 
+![](https://cdn-images-1.medium.com/max/1600/1*aA7h4IzDUyrmuDHu-wFOQw.gif)
+
+---
+
 - Typing on a small keyboard (slower text typing)
     - ↝ ask for the very minimum
     - ↝ ask for relevant things
@@ -210,7 +214,14 @@ Discussion...
 - Brand guidelines
 - Business Requirements
 - Client Requirements
-- User Interface and Interactions should be illustrated if needed within the wireframe
+- ~~Site map~~ → Flow map (or Flow chart, App flow, Storyboard) **important**
+- User Interface and Interactions (should be illustrated if needed)
+
+---
+
+**Example of a Flow map**
+
+![](http://www.davidgauch.com/img/portfolio/20_hellofutureself/hfs_mobile_app_flow.jpg)
 
 ---
 
@@ -284,6 +295,10 @@ or other (Windows Phones)
 **Know the UI Elements/Components**
 
 Buttons, TableView/ListView, ScrollableView, ScrollView, ImageView, View, Slider, Dialog, Picker, Window, Inputs...
+
+---
+
+![](https://i.pinimg.com/736x/83/b4/a9/83b4a9840373239ad291a58a0c50f013--view-controller-ios-.jpg)
 
 ---
 
@@ -393,8 +408,10 @@ DPI is used for screen sizes (LDPI, MDPI, HDPI, XHDPI, XXHDPI) which is like @1x
 - Navigation
     - Windows
     - Explanations around patterns
-        - High level
-            - Sub levels
+        - 1 High level (with multiple options)
+        - Many sub levels
+        - Avoid to jump from the middle of a navigation branch to somewhere on another branch
+        - Keep consistency into accessing functionalities on the same branch of the navigation
 
 ---
 
@@ -540,8 +557,13 @@ But maybe not only...
 - [Dribbble - 4_2x.png by Jerry](https://dribbble.com/shots/3835770-Dogdom/attachments/868382)
 - [UI Design Do’s and Don’ts - Apple Developer](https://developer.apple.com/design/tips/)
 - [Themes - Overview - iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
+
+----
+
+- [Show Me the Way to Go Anywhere – Navigation for Mobile Applications](https://www.interaction-design.org/literature/article/show-me-the-way-to-go-anywhere-navigation-for-mobile-applications)
 - [Density Explanation](http://blog.fluidui.com/designing-for-mobile-101-pixels-points-and-resolutions/)
 - [Pixel Density Demyistified](https://medium.com/@pnowelldesign/pixel-density-demystified-a4db63ba2922)
+- [UI Sample](http://browse.sketchapp.tv/post/144553267835/collection-53-sketchapp-tv-uis)
 
 ---
 
@@ -549,6 +571,10 @@ But maybe not only...
 - [Designing at 1x](https://medium.com/sketch-app-sources/designing-at-1x-33240842180c)
 - [Designing at 1x](http://movify.be/designing-at-1x/)
 - [Eight don’ts for your Material Design app – Prototypr](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329)
+
+---
+
+- [Basic Patterns of Mobile Navigation](https://blogs.adobe.com/creativecloud/basic-patterns-of-mobile-navigation/)
 - [Material Design](https://material.io/)
 - [What Dimensions And Resolution Should Be For iOS And Android App Design?](https://think360studio.com/what-dimensions-resolution-should-be-for-ios-and-android-app-design/)
 - [Appcelerator Platform - Appcelerator Docs](http://docs.appcelerator.com/platform/latest/#!/guide/Layouts,_Positioning,_and_the_View_Hierarchy)
