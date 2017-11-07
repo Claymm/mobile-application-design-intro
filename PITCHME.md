@@ -14,21 +14,21 @@ See this as a new set of skills and build on this...
 
 --- 
 
-**It's gonna be huge.**
+Similar to web design, it’s wide and dense, like huge but interesting.
 
-Similar to web design, it’s wide and dense and you’ll still need inspiration and all of your best UX skills.
+But it's still designing so you’ll still need inspiration as well as all of your best skills especially for UX and UI.
 
 ---
 
-**Be interested and curious**
+**(Try to) Be interested and curious**
 
-It’s okay to be new on something as long as you try to understand and do your best to be better.
+It’s okay to be new on something as long as you try to understand it and do your best.
 
 ---
 
 **My personal first experiences...**
 
-__Using Appcelerator Titanium...__
+Using Appcelerator Titanium...
 
 - [COBAN Atlantique dans l’App Store](https://itunes.apple.com/fr/app/coban-atlantique/id653538938?mt=8)
 - [COBAN Atlantique - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.seppa.coban&hl=en)
@@ -36,14 +36,12 @@ __Using Appcelerator Titanium...__
 
 ---
 
-**And a print designer... 🤦‍**
+And a print designer... 🤦‍
 
 - [my Selecta on the App Store](https://itunes.apple.com/gb/app/my-selecta/id727157602?mt=8)
 - [my Selecta - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.selecta.myselecta&hl=en)
 
----
-
-UGLY AF.
+---?image=http://s2.quickmeme.com/img/f5/f5be8ad0e3d180f614afb5255793fab60b2b9d7cdaf450ab1356dd9956e29b99.jpg&size=auto auto
 
 ---
 
