@@ -140,7 +140,7 @@ True ❤️ story.
 
 ### A machine
 
-**Some technical considerations from a Designer POV**
+Some technical considerations from a Designer POV
 
 ---
 
@@ -166,7 +166,13 @@ Any **Browser** which is going to run the website using one or multiple **Resolu
 
 ---
 
-#### A user
+**What resolution(s) should we use for our designs?**
+
+Discussion...
+
+---
+
+### A user
 
 ---
 
@@ -178,41 +184,71 @@ Any **Browser** which is going to run the website using one or multiple **Resolu
     - **swipe** + direction + position
     - **pinch** + direction
     - **drag** + direction
-- Typing on a small keyboard (slower text typing)
-    - -> ask for the very minimum
-    - -> ask for relevant things
-- Learn the terminology: Page = Screen, Click = Tap/Touch, App Icon, Splash Screens…
 
 ---
 
-### Wireframes
+- Typing on a small keyboard (slower text typing)
+    - ↝ ask for the very minimum
+    - ↝ ask for relevant things
+- Learn the terminology:
+    - Page = Screen
+    - Click = Tap/Touch
+    - App Icon
+    - Splash Screens…
+
+---
+
+## Wireframes
 
 - Good to start on paper but needs to be digital at some point
-- Like a website, prep work is mandatory:
-    - Apply the same concepts from a website
-        - Brand guidelines
-        - Business Requirements
-        - Client Requirements
-    - **Application Definition Statement**
-        - What the application experience is
-        - What is the application meant to do
-        - Who is the intended audience
-- UI and Interactions should be illustrated
-- Feedback, touch gestures and transitions
-    - Always feedback to the user: confirm correct behaviour + satisfaction + avoid confusion
-        - Visual Feedback at least
-            - touch states
-            - animation upon completion of action
-            - communicate with literals upon completion of action
-        - Audio Feedback
-        - Vibrating Feedback
-    - User interaction is different from a website:
-        - Multiple touch gestures: tap, swipe + direction, 
-    - Transitions between screen + animations are important
+- Like a website, prep work is mandatory...
 
 ---
 
-### UI Design
+**Apply the same concepts from a website**
+    
+- Brand guidelines
+- Business Requirements
+- Client Requirements
+- User Interface and Interactions should be illustrated if needed within the wireframe
+
+---
+
+**Application Definition Statement**
+        
+- What the application experience is
+- What is the application meant to do
+- Who is the intended audience
+
+---
+
+**Feedback, touch gestures and transitions**
+
+Always feedback to the user
+
+↝ confirm correct behaviour + satisfaction + avoid confusion
+
+---
+
+**Visual Feedback at least**
+
+- touch states
+- animation upon completion of action
+- communicate with literals upon completion of action
+
+(audio or vibration feedback can be used too)
+
+---
+
+User interaction is different from a website (multiple touch gestures...)
+
+Always keep in mind the context (connectivity) and limitations from a user POV
+
+Don't forget transitions between screen and animations.
+
+---
+
+## UI Design
 
 ---
 
