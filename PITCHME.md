@@ -2,7 +2,7 @@
 
 ---
 
-# Introduction
+## Introduction
 
 ---
 
@@ -45,67 +45,124 @@ And a print designer... 🤦‍
 
 ---
 
-### Different ways and tech stacks to build mobile apps
-
-- Native app
-    - Tech stack
-- Hybrid app
-    - Tech stack
-- Web app (app shelling) + RWD
-    - Tech stack
-- Some limitations based on which approach
-- No matter what, it’s always distributed on the same platforms
-    - -> same platform constraints
-    - -> same way to distribute
+## Different ways (and technologies) to build mobile applications
 
 ---
 
-### Considerations
+**iOS Native Development**
+
+Objective-C or Swift language + iOS SDK + XCode as IDE + CocoaPods as Dependancy Manager
+    
+---
+
+**Android Native Development**
+
+Java language + Android SDK + Android Studio as IDE + Gradle as Dependancy Manager
+    
+---
+
+Those two can't be any closer from the OS + native SDK
 
 ---
 
-#### Don’t forget what you know
+**Hybrid Development**
+
+- React Native (Javascript)
+- Appcelerator Titanium (Javascript)
+- Xamarin (C# + Microsoft .Net platform)
+
+---
+
+- performances: very close from native 👍
+- can access most of the device capabilities
+- target both iOS and Android (and sometimes Windows Phones too)
+- re-usable codebase
+- more accessible languages
+- but with some limitations
+
+--- 
+
+**Web App Development** AKA "App Shelling"
+
+- PhoneGap (Cordova)
+- SenchaTouch
+- Ion
+
+Encapsulate a website (including RWD or not) into a mobile applciation.
+
+---
+
+- performances are 💩
+- depending on HTML/CSS/Javascript
+- can't access all device capabilities
+
+--- 
+
+**But no matter what, it's all going to the same place**
+
+- Apple App Store
+- Android Play Store
+
+^ Good news for designers. ❤️
+
+---
+
+- Same distribution
+- Same platform constraints
+- Same challanges
+
+---
+
+## Considerations
+
+---
+
+**Good news, don’t forget what you know**
 
 - UI Design Skills
 - UX Design Skills
+- Wireframing Skills
+- Same tools...
 
 ---
 
-#### What are you building this for?
+**But wait, what are you building this for?**
 
-Good news, we’re building this for the same things! 🎉 
-
----
-
-#### A machine
+Another good news: the same things! 🎉 
 
 ---
 
-**Technical considerations from a Designer POV**
+**A Machine and a User**
 
-- Websites:
-    - Any **Browser** which is going to run the website using one or multiple **Resolutions** (RWD or not)
-- Mobile Applications:
-    - **Device** (hardware)
-        - Resolution
-            - iOS has standards based on original 320 x 480
-                - Different resolutions **4** based on screen sizes (5.5” | 4.7” | 4” | 3.5”)
-                - Recommended to use 
-            - Android
-                - Standards like HVGA, WVGA800 or WVGA854
-                - Recommended to start with a Google Phone as a standard
-            - **BUT** need to understand that an application still need to be responsive, no matter the resolution.
-            - **ALSO** need to consider landscape
-        - Density of the screen
-            - -> Learn about @1x, @2x, @3x, ldpi, mdpi, hdpi, xhdpi, xxhdpi
-            - -> Learn the units (check with developers too)
-        - Device capabilities
-    - **Operating System**
-        - UI Guidelines
-        - UX Expectations
-    - **Connectivity**
-        - Think about asynchronous and synchronous tasks
-        - Think about bad connectivity (in a user journey or not)
+True ❤️ story.
+
+---
+
+### A machine
+
+**Some technical considerations from a Designer POV**
+
+---
+
+**Websites**
+
+Any **Browser** which is going to run the website using one or multiple **Resolutions** (RWD or not),
+
+---
+
+**Mobile Applications**
+
+- Device (hardware)
+- Operating System
+- Connectivity
+
+---
+
+**Device - Resolution(s)**
+
+- Standards for iOS based on original 320x480
+- Different resolutions **4** based on screen sizes (5.5” | 4.7” | 4” | 3.5”)
+- Android uses standards like HVGA, WVGA800 or WVGA854
 
 ---
 
