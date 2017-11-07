@@ -315,7 +315,7 @@ DIP is also known as:
 - DP (Digital Points)
 - PPI (points per inch)
 
-Don't ask. ¯\\_(ツ)_/¯
+Don't ask. ¯\\(ツ)/¯
 
 ---
 
@@ -327,6 +327,12 @@ Don't ask. ¯\\_(ツ)_/¯
 - iOS: actual pixels = dip * (screen density) / 163
 
 Effectively **1dip = 1px** on standard and **1dip = 2px** on retina display for iOS.
+
+---
+
+Practically, people tend to design in 1x on Sketch.
+
+See resources linked.
 
 ---
 
