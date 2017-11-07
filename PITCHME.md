@@ -252,111 +252,210 @@ Don't forget transitions between screen and animations.
 
 ---
 
-- Most of Design Principles still apply
-    - User centric
-    - Less is more
-    - Actions are keys
-    - Be consistent
-    - and many more I’m sure…
-- Sketch is a go to (vector is ❤️) proper UI design tool
-- Resolutions and densities
-- Responsiveness of a mobile application
-- Design Guidelines
-    - Know the UI Elements/Components
-        - Buttons
-        - TableView/ListView
-        - ScrollableView
-        - ScrollView
-        - ImageView
-        - View
-        - Slider
-        - Dialog
-        - Picker
-        - Window
-        - Inputs
-    - Know how iOS / Android handle differences
-- Units, Layout, Positioning and View Hierarchy (for Appcelerator)
-    - **Units for Absolute values**
-        - Default iOS: dip
-        - Default Android: pixels 
-        - Possibilities: px, mm, cm, in, dp/dip, or system
-        - dp/dip is recommended:
-            - Density-independent pixels (we sometimes call these "points")
-            - Android : actual pixels = dip * (screen density) / 160
-            - iOS : actual pixels = dip * (screen density) / 163 (effectively 1dip=1px on standard, 1dip=2px on retina)
-    - FILL behaviour
-    - SIZE behaviour
-    - Absolute values (based on selected unit)
-    - Percentages (based on parent)
-    - top, right, bottom, left anchors
-- Image formats
-    - GIF, PNG, JPG supported but JPG for pics and PNG preferred for anything else.
-    - No SVG supported.
-    - Image sizes are really important and Developers should be able to tell you for some very specific assets what is the **exact** resolution expected. Hard requirement in some cases.
-    - Overview of Android 9 patch technique.
-    - 2 ways of doing splash screens
-- **Navigation** and **Forms** are one of the most challenging things to do
-    - Navigation
-        - Windows
-        - Explanations around patterns
-            - High level
-                - Sub levels
-    - Forms
-        - Elements
-        - Feedback
-        - Textarea example
-        - Checkbox example
-        - Date picker example
-- Use symbols to avoid having to repeat yourself, especially for UI elements
-- Try to build your own library (or modify an existing one to match the project) but having standards and avoid repetition is key. Similar to what we do for websites with [Styleguide | Cyber-Duck](http://patterns.cyberduck.net/)
-    - Typography
-    - Buttons
-    - Form elements
-    - Screen layouts (templates)
-    - Screen elements
-    - and many more…
-- Don’t forget empty states.
-- Don’t forget transitions, make it live (but not too much)
+**Most of Design Principles still apply**
+
+- User centric
+- Less is more
+- Actions are keys
+- Be consistent
+- and many more I’m sure…
+
+---
+
+Sketch is a must (vector is ❤️) proper UI design tool
+
+---
+
+Resolutions and densities
+
+Responsiveness of a mobile application
+
+---
+
+**Design Guidelines**
+
+- Apple Human Interface Guidelines
+- Google Material Design Guidelines
+
+or other (Windows Phones)
+
+---
+
+**Know the UI Elements/Components**
+
+Buttons, TableView/ListView, ScrollableView, ScrollView, ImageView, View, Slider, Dialog, Picker, Window, Inputs...
+
+---
+
+**Know how iOS / Android handle differences**
+
+---
+
+**Units, Layout, Positioning and View Hierarchy**
+
+From my own experience with Appcelerator Titanium.
+
+---
+
+**Units for Absolute values**
+
+- Default iOS: dip
+- Default Android: pixels 
+- Possibilities: px, mm, cm, in, dp/dip, or system
+- dp/dip is recommended
+
+---
+
+**DP/DIP**
+
+- Density-independent pixels (we sometimes call these "points")
+- Android : actual pixels = dip * (screen density) / 160
+- iOS : actual pixels = dip * (screen density) / 163 (effectively 1dip=1px on standard, 1dip=2px on retina)
+
+---
+
+**Content**
+        
+- FILL behaviour
+- SIZE behaviour
+- Absolute values (based on selected unit)
+- Percentages (based on parent)
+
+---
+
+**Positionning**
+
+- top, right, bottom, left anchors
+
+---
+
+**Image formats**
+
+- GIF, PNG, JPG supported but JPG for pics and PNG preferred for anything else.
+- No SVG supported.
+- Image sizes are really important and Developers should be able to tell you for some very specific assets what is the **exact** resolution expected. Hard requirement in some cases.
+- Overview of Android 9 patch technique.
+- 2 ways of doing splash screens
+
+---
+
+**Navigation** and **Forms** are one of the most challenging things to do
+
+---
+
+- Navigation
+    - Windows
+    - Explanations around patterns
+        - High level
+            - Sub levels
+
+---
+
+- Forms
+    - Elements
+    - Feedback
+    - Textarea example
+    - Checkbox example
+    - Date picker example
+
+---
+
+Use symbols to avoid having to repeat yourself, especially for UI elements
+
+---
+
+Try to build your own library (or modify an existing one to match the project) but having standards and avoid repetition is key. Similar to what we do for websites with [Styleguide | Cyber-Duck](http://patterns.cyberduck.net/)
+
+---
+
+- Typography
+- Buttons
+- Form elements
+- Screen layouts (templates)
+- Screen elements
+- and many more…
+
+---
+
+Don’t forget empty states.
+
+Don’t forget transitions, make it live (but not too much)
     - Push Notification example
-- Always test your UI
-    - Things should be touchable
-    - UX needs to be good
-- Deliverables
-- Richard could potentially show us what he’s been working on so far
 
 ---
 
-### Don’t reinvent the wheel
+**Always test your UI**
+
+- Things should be touchable
+- UX needs to be good 
 
 ---
 
-- Past: Photoshop + Smart Object
+**Deliverables**
+
+---
+
+Richard?
+
+---
+
+## Don’t reinvent the wheel
+
+---
+
+Past: Photoshop + Smart Object
+
+---
+
 - Now Sketch Files/Libraries + Symbols
 - Tools (App Icons, Splash screens…)
 - Libraries (UI Libraries for example)
-- Question about Git https://github.com/jtholloran/icons
-- [The Best Free Sketch iOS App Icon Template - Savvy Apps](https://savvyapps.com/blog/sketch-ios-app-icon-template)
-- [iOS and Android App Icon Generator Sketch freebie - Download free resource for Sketch - Sketch App Sources](https://www.sketchappsources.com/free-source/2183-ios-android-app-icon-generator-sketch-freebie-resource.html)
-- sketchappsources.com
 
 ---
 
-### Designers and Developers should talk a lot. As always.
+- [App Icon Templates](https://savvyapps.com/blog/sketch-ios-app-icon-template)
+- [App Icon Sketch Files](https://www.sketchappsources.com/free-source/2183-ios-android-app-icon-generator-sketch-freebie-resource.html)
+- Splash Screens Sketch Files...
+- sketchappsources.com + Google 
+
+Question about Git [https://github.com/jtholloran/icons](https://github.com/jtholloran/icons)
 
 ---
 
-- Gather technical requirements from Developers
-    - For a functionality
-    - For the UI
-    - For connectivity
-    - For feeding back the user on errors
-        - While filling a form or performing an action
-        - While simply navigating and using the application
-    - For another specific thing
-    - What units to talk to?
-    - What densities?
-- Make sure to have a lot of checkpoints with your Developers to approve what has been produced (wireframes, designs, functionalities…)
-- Apply the same processes you would apply for a website in terms of workflow and checkpoints.
+## Designers and Developers should talk a lot.
+
+As always.
+
+---
+
+Gather technical requirements from Developers.
+
+Make sure you book recurrent times to review things.
+
+Thing are coming as requirements from the technology used.
+
+---
+
+- For a functionality
+- For the UI
+- For connectivity
+
+---
+
+- For feeding back the user on errors
+    - While filling a form or performing an action
+    - While simply navigating and using the application
+- What units to talk to?
+- What densities?
+
+
+---
+
+Make sure to have a lot of checkpoints with your Developers to approve what has been produced (wireframes, designs, functionalities…)
+
+---
+
+In sum, apply the same things you would apply for a website in terms of workflow, checkpoints and processes.
 
 ---
 
@@ -368,6 +467,9 @@ Don't forget transitions between screen and animations.
 - [Dribbble - 4_2x.png by Jerry](https://dribbble.com/shots/3835770-Dogdom/attachments/868382)
 - [UI Design Do’s and Don’ts - Apple Developer](https://developer.apple.com/design/tips/)
 - [Themes - Overview - iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)
+
+---
+
 - [Eight don’ts for your Material Design app – Prototypr](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329)
 - [Material Design](https://material.io/)
 - [What Dimensions And Resolution Should Be For iOS And Android App Design?](https://think360studio.com/what-dimensions-resolution-should-be-for-ios-and-android-app-design/)
