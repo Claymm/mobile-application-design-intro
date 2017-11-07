@@ -319,10 +319,6 @@ Don't ask. ¯\\(ツ)/¯
 
 ---
 
-![](http://blog.fluidui.com/content/images/2015/09/resolution.png)
-
----
-
 - Android: actual pixels = dip * (screen density) / 160
 - iOS: actual pixels = dip * (screen density) / 163
 
@@ -335,6 +331,32 @@ Practically, people tend to design in 1x on Sketch.
 For pictures (not vector), use high res assets.
 
 See resources linked.
+
+---
+
+Don't get confused between DIP and DPI (dots per inch).
+
+DPI is used for screen sizes (LDPI, MDPI, HDPI, XHDPI, XXHDPI) which is like @1x, @2x, @3x
+
+---
+
+![](http://movify.be/wp-content/uploads/2016/10/iosandroid_proportion.jpg)
+
+---
+
+![](http://blog.fluidui.com/content/images/2015/09/resolution.png)
+
+---
+
+**iOS Export**
+
+![](http://movify.be/wp-content/uploads/2016/10/ios_export.jpg)
+
+---
+
+**Android Export**
+
+![](http://movify.be/wp-content/uploads/2016/10/android_export.jpg)
 
 ---
 
@@ -525,6 +547,7 @@ But maybe not only...
 
 - [Design at 1x it's a fact](https://medium.com/shyp-design/design-at-1x-its-a-fact-249c5b896536)
 - [Designing at 1x](https://medium.com/sketch-app-sources/designing-at-1x-33240842180c)
+- [Designing at 1x](http://movify.be/designing-at-1x/)
 - [Eight don’ts for your Material Design app – Prototypr](https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329)
 - [Material Design](https://material.io/)
 - [What Dimensions And Resolution Should Be For iOS And Android App Design?](https://think360studio.com/what-dimensions-resolution-should-be-for-ios-and-android-app-design/)
