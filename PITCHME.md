@@ -10,6 +10,8 @@
 
 See this as a new set of skills and build on this...
 
+---?image=https://i.imgflip.com/p8blw.jpg
+
 --- 
 
 **It's gonna be huge.**
