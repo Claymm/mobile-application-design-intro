@@ -332,6 +332,8 @@ Effectively **1dip = 1px** on standard and **1dip = 2px** on retina display for 
 
 Practically, people tend to design in 1x on Sketch.
 
+For pictures (not vector), use high res assets.
+
 See resources linked.
 
 ---
@@ -402,19 +404,35 @@ Try to build your own library (or modify an existing one to match the project) b
 
 Don’t forget empty states.
 
-Don’t forget transitions, make it live (but not too much)
-    - Push Notification example
+Don’t forget transitions, make it live and FUN (but not too much)
+
+---
+
+![](https://www.sketchappsources.com/resources/source-image/books-app-travishowell.gif)
+
+---
+
+Push notification wizard example
+
+Even small things can benefit this.
 
 ---
 
 **Always test your UI**
 
+- Using Sketch? (@cristina)
 - Things should be touchable
-- UX needs to be good 
+- Put yourself in your user's shoes
+- Best way to make sure interaction and UX is good enough
 
 ---
 
 **Deliverables**
+
+- Wireframes
+- Designs
+- UI Kit (standardised and re-usable components)
+- Testable UI (optional but UI testing while designing is still **mandatory**)
 
 ---
 
@@ -437,7 +455,9 @@ Past: Photoshop + Smart Object
 - Splash Screens Sketch Files...
 - sketchappsources.com + Google 
 
-Question about Git [https://github.com/jtholloran/icons](https://github.com/jtholloran/icons)
+---
+
+Discussions about Git [https://github.com/jtholloran/icons](https://github.com/jtholloran/icons)
 
 ---
 
@@ -475,6 +495,18 @@ Make sure to have a lot of checkpoints with your Developers to approve what has 
 ---
 
 In sum, apply the same things you would apply for a website in terms of workflow, checkpoints and processes.
+
+But maybe not only...
+
+---
+
+## Stay curious
+
+- How to organise Sketch file(s) for Mobile Application Design?
+- What are the best practices with Sketch for Mobile Application Design?
+- What should be our processes in terms of Mobile Application Design?
+- How to do wireframing efficiently for Mobile Application Design?
+- and many more...
 
 ---
 
