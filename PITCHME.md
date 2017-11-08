@@ -264,7 +264,11 @@ User interaction is different from a website (multiple touch gestures...)
 
 Always keep in mind the context (connectivity) and limitations from a user POV
 
-Don't forget transitions between screen and animations.
+Don't forget transitions between screen and animations. Evil is in the detials.
+
+---
+
+![](https://raw.githubusercontent.com/Sunnyyoung/SYFavoriteButton/master/ScreenShot/ScreenShot.gif)
 
 ---
 
