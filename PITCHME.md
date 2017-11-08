@@ -1,4 +1,4 @@
----?image=https://cdn-pro.dprcdn.net/files/acc_244709/IedzTc
+---?image=https://cdn-pro.dprcdn.net/files/acc_244709/IedzTc&size=auto auto
 
 ---
 
