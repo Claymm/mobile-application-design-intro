@@ -264,11 +264,7 @@ User interaction is different from a website (multiple touch gestures...)
 
 Always keep in mind the context (connectivity) and limitations from a user POV
 
-Don't forget transitions between screen and animations. Evil is in the detials.
-
----
-
-![](https://raw.githubusercontent.com/Sunnyyoung/SYFavoriteButton/master/ScreenShot/ScreenShot.gif)
+Don't forget transitions between screen and animations.
 
 ---
 
@@ -454,7 +450,9 @@ Try to build your own library (or modify an existing one to match the project) b
 
 Don’t forget empty states.
 
-Don’t forget transitions, make it live and FUN (but not too much)
+Don’t forget transitions, make it live and FUN (but not too much). Evil is in the detials.
+
+---?image=https://raw.githubusercontent.com/Sunnyyoung/SYFavoriteButton/master/ScreenShot/ScreenShot.gif&size=auto 90%
 
 ---
 
