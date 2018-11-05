@@ -1,4 +1,4 @@
----?image=https://github.com/clementblanco/mobile-application-design-intro/blob/master/cover.png&size=100% auto
+---?image=https://raw.githubusercontent.com/clementblanco/mobile-application-design-intro/master/cover.png&size=100% auto
 
 ---
 
