@@ -1,4 +1,4 @@
----?image=https://cdn-pro.dprcdn.net/files/acc_244709/IedzTc&size=100% auto
+---?image=https://github.com/clementblanco/mobile-application-design-intro/blob/master/cover.png&size=100% auto
 
 ---
 
